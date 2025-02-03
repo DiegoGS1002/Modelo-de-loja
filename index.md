@@ -1,38 +1,13 @@
-# Modelo-de-loja
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lojinha</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <style>
-h1{
-    border: #f00 dashed 5px;
-    margin: 30px 0px;
-    padding: 30px;
-}
-
-#bag{
-    color: brown;
-}
-
-footer{
-    background-color: #555;
-    color: #ffff;
-    padding: 20px;
-}
-
-.produto-item{
-    font-weight: bold;    
-}
-
-.Subtotal{
-    font-weight: bold;
-}
-    </style>
-   <script src="js/funcoes.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="funcoes.js"></script>
 
 </head>
 <body>
