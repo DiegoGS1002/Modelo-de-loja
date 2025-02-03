@@ -7,8 +7,32 @@
     <title>Lojinha</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js/funcoes.js"></script>
+    <style>
+h1{
+    border: #f00 dashed 5px;
+    margin: 30px 0px;
+    padding: 30px;
+}
+
+#bag{
+    color: brown;
+}
+
+footer{
+    background-color: #555;
+    color: #ffff;
+    padding: 20px;
+}
+
+.produto-item{
+    font-weight: bold;    
+}
+
+.Subtotal{
+    font-weight: bold;
+}
+    </style>
+   <script src="js/funcoes.js"></script>
 
 </head>
 <body>
